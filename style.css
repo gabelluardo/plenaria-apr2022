@@ -23,3 +23,10 @@ h1,
 h2 {
     margin-bottom: 30px;
 }
+
+.end {
+    background-image: url('https://c.tenor.com/JSyRTClMMQAAAAAd/baby-yoda.gif');
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
